@@ -1,0 +1,2 @@
+test_name,status,uvm_info,uvm_warning,uvm_error,uvm_fatal,coverage_pct,log_file
+xrun,PASS (inferred),523,0,0,0,91.67,xrun.log
